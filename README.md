@@ -76,12 +76,21 @@ Replace `0.1.0` with the used version.
 3. Document changes in `CHANGELOG.md`.
 5. Commit, tag with the new version, and push to the repository.
 ```bash
-git add environment.yml VERSION.txt
+# First, export the current state of your mamba environment to environment.yml
+mamba env export -n coringa > environment.yml
+
+# Then, add the updated environment file to git
+git add environment.yml
+
+# Commit with a message indicating the changes
 git commit -m "Updated to version <new version> with XYZ changes"
-git tag v0.1.0
+
+# Tag the commit with the version number
+git tag v<new version>
+
+# Push changes and tags to remote repository
 git push && git push --tags
 ```
-Replace `0.1.0` with the new version
 
 ## Contact
 
