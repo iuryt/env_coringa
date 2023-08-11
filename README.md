@@ -76,7 +76,7 @@ Replace `0.1.0` with the used version.
 3. Document changes in `CHANGELOG.md`.
 5. Commit, tag with the new version, and push to the repository.
 ```bash
-git add environment.yml VERSION.txt
+git add environment.yml
 git commit -m "Updated to version <new version> with XYZ changes"
 git tag v0.1.0
 git push && git push --tags
