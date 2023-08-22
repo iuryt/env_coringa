@@ -79,8 +79,8 @@ Replace `0.1.0` with the used version.
 # First, export the current state of your mamba environment to environment.yml
 mamba env export -n coringa > environment.yml
 
-# Then, add the updated environment file to git
-git add environment.yml
+# Then, add the updated environment and CHANGELOG.md file to git
+git add environment.yml CHANGELOG.md
 
 # Commit with a message indicating the changes
 git commit -m "Updated to version <new version> with XYZ changes"
