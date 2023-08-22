@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [0.2.0] - 2023-08-22
+
+- Update parcels to 2.4.2.
+
 ## [0.1.0] - 2023-08-11
 
 - Initial release.
