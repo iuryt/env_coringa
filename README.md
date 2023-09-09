@@ -32,35 +32,6 @@ First of all, you need to have [mamba installed](https://mamba.readthedocs.io/en
    ```
    This is going to create a new mamba environment with the name `coringa0.1.0`
 
-## Updating the Coringa Environment
-
-If you already have the `coringa` environment set up and wish to update it to a specific version from this repository, follow these steps:
-
-1. **Navigate to the Repository Folder**:
-   ```bash
-   cd path/to/env_coringa
-   ```
-
-2. **Pull the Latest Changes**:
-   Ensure you have the latest version of the repository:
-   ```bash
-   git pull
-   ```
-
-3. **Checkout the Desired Version**:
-   If you want to update to a specific version:
-   ```bash
-   git checkout tags/v0.1.0
-   ```
-   Replace `0.1.0` with the version you want to update to.
-
-4. **Update the Mamba Environment**:
-   ```bash
-   mamba env update -f environment.yml -n coringa
-   ```
-   This will update the existing `coringa` environment with the package changes from the chosen version.
-
-
 ## Usage in Projects
 
 When using this environment in a project, reference the specific version used. For example:
