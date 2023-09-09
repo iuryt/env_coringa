@@ -28,9 +28,9 @@ First of all, you need to have [mamba installed](https://mamba.readthedocs.io/en
 
 4. **Create the Mamba Environment**:
    ```bash
-   mamba env create -f environment.yml -n coringa
+   mamba env create -f environment.yml -n coringa0.1.0
    ```
-   This is going to create a new mamba environment with the name `coringa`
+   This is going to create a new mamba environment with the name `coringa0.1.0`
 
 ## Updating the Coringa Environment
 
