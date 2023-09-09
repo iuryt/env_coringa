@@ -11,6 +11,8 @@ Named "Coringa" to highlight its broad applicability and adaptability, this repo
 
 ## Setting Up the Environment
 
+First of all, you need to have [mamba installed](https://mamba.readthedocs.io/en/latest/mamba-installation.html#mamba-install).
+
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/iuryt/env_coringa.git
