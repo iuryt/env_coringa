@@ -5,10 +5,6 @@ Welcome to the Coringa repository — a specialized environment tailored for Ear
 ## Why "Coringa"?
 In Portuguese, the term "coringa" signifies a wildcard; an adaptable element able to serve varied purposes. Just as a joker in card games can substitute any other card, becoming one of the most adaptable cards in the deck, the Coringa environment has been designed to be versatile and adaptable.
 
-Our Coringa environment is your "coringa" in the realm of Earth sciences. It encapsulates tools and libraries tailored for the nuanced needs of oceanographic data analysis. Its versatility saves researchers and scientists the hassle of curating distinct environments for each project.
-
-Named "Coringa" to highlight its broad applicability and adaptability, this repository is a tribute to the dynamic nature of Earth sciences, providing a ready-to-deploy environment for various oceanographic and geoscientific projects.
-
 ## Setting Up the Environment
 
 First of all, you need to have [mamba installed](https://mamba.readthedocs.io/en/latest/mamba-installation.html#mamba-install).
