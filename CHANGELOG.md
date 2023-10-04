@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [0.3.0] - 2023-10-03
+
+- Remove cuda-restricted PyTorch.
+
 ## [0.2.0] - 2023-08-22
 
 - Update parcels to 2.4.2.
