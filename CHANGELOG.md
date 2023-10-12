@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [0.4.0] - 2023-10-12
+
+- Add rioxarray, plotly and seaborn
+
 ## [0.3.0] - 2023-10-03
 
 - Remove cuda-restricted PyTorch.
