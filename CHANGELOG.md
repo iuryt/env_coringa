@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [1.0.0] - 2023-12-11
+
+- Major changes to make it work interactive plotting with Holoviz.
+
 ## [0.3.0] - 2023-10-03
 
 - Remove cuda-restricted PyTorch.
