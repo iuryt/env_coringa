@@ -3,7 +3,7 @@
 Welcome to the Coringa repository — a specialized environment tailored for Earth sciences, particularly focusing on oceanographic data analysis. Initially curated for my personal use, the Coringa environment aims to be a central hub offering the most used packages and tools for my different projects. While its genesis was personal, I invite and encourage other enthusiasts and professionals to make use of and benefit from this environment as well.
 
 ## Why "Coringa"?
-In Portuguese, the term "coringa" signifies a wildcard; an adaptable element able to serve varied purposes. Just as a joker in card games can substitute any other card, becoming one of the most adaptable cards in the deck, the Coringa environment has been designed to be versatile and adaptable.
+In Portuguese, the term "coringa" means a wildcard; an adaptable element able to serve varied purposes. Just as a joker in card games can substitute any other card, becoming one of the most adaptable cards in the deck, the Coringa environment has been designed to be versatile and adaptable.
 
 ## Setting Up the Environment
 
