@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [2.0.0] - 2024-05-28
+
+- Major changes. Updates and new packages (copernicusmarine, xrft).
+
 ## [1.0.0] - 2023-12-11
 
 - Major changes to make it work interactive plotting with Holoviz.
