@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [2.1.1] - 2024-06-30
+
+- Downgrade openssl to fix incompatibility bug while creating env.
+
 ## [2.1.0] - 2024-06-30
 
 - Adds gee, cmashed, memory_profiler (pip) and updates other packages.
