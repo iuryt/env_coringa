@@ -4,6 +4,10 @@ This file documents all notable changes to env_coringa. The format is based on [
 
 ---
 
+## [2.1.0] - 2024-06-30
+
+- Adds gee, cmashed, memory_profiler (pip) and updates other packages.
+
 ## [2.0.0] - 2024-05-28
 
 - Major changes. Updates and new packages (copernicusmarine, xrft).
